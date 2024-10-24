@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 
 const menuLinks = [
-  { label: 'menu', href: '/menu' },
+  { label: 'australia', href: '/australia' },
   { label: 'latest', href: '/' },
   { label: 'journal', href: '/' },
   { label: 'stuff', href: '/' },
